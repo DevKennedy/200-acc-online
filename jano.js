@@ -6138,8 +6138,7 @@ jano200.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-//////////////// tokn lera da bne
-
+////////////////"MTAxNDIyOTI1NTI4ODI3NDk0NA.GQSfCZ.ByCyL5e_-XmpmQT6e-VP-9g-tLpxTMRgxVDwbA"
 jano.login("");
 jano2.login("");
 jano3.login("");
